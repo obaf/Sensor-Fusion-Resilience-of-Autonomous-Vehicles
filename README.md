@@ -275,4 +275,4 @@ If you use the datasets, cite them as well (references in `data/README.md`).
 ## 11. Contact
 
 Akinwole Obafemi, Edinburgh Napier University, Edinburgh, United Kingdom.
-Email: akinobafemi@gmail.com. ORCID: https://orcid.org/0009-0003-6875-1900
+Email: akinwole.obafemi@napier.ac.uk. ORCID: https://orcid.org/0009-0003-6875-1900
