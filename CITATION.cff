@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, please cite this release and the accompanying article."
+title: "Graceful or Catastrophic? Sensor-Fusion Resilience of Autonomous-Vehicle Localisation under Coordinated Global Navigation Satellite System Spoofing and Perception Attacks: code and results"
+type: software
+version: "1.0.0"
+license: MIT
+authors:
+  - family-names: Obafemi
+    given-names: Akinwole
+    affiliation: "Edinburgh Napier University"
+    orcid: "https://orcid.org/0009-0003-6875-1900"
+abstract: >-
+  Code and result files for a study of multi-sensor localisation fusion under simultaneous GNSS
+  spoofing and perception attacks, submitted to IET Radar, Sonar & Navigation. Part A benchmarks
+  receiver-level spoofing detectors on the TEXBAT processed observables; Parts B and C replay nuScenes
+  v1.0-mini trajectories through a synthetic sensor suite and an extended Kalman filter under GNSS,
+  perception and coordinated attacks, comparing five fusion configurations and seven attack detectors.
+keywords:
+  - GNSS spoofing
+  - sensor fusion
+  - autonomous vehicles
+  - LiDAR odometry
+  - perception attacks
+  - anomaly detection
+# Fill in and uncomment after the repository is published:
+# repository-code: "https://github.com/<account>/<repository>"
+# date-released: "YYYY-MM-DD"
+preferred-citation:
+  type: article
+  title: "Graceful or Catastrophic? Sensor-Fusion Resilience of Autonomous-Vehicle Localisation under Coordinated Global Navigation Satellite System Spoofing and Perception Attacks"
+  authors:
+    - family-names: Obafemi
+      given-names: Akinwole
+      affiliation: "Edinburgh Napier University"
+      orcid: "https://orcid.org/0009-0003-6875-1900"
+  journal: "IET Radar, Sonar & Navigation"
+  year: 2026
+  notes: "Submitted; volume, pages and DOI to follow on publication."

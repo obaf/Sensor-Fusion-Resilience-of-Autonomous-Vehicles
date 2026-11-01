@@ -1,0 +1,10 @@
+# Exact versions of the environment in which the deposited results were re-verified
+# (Python 3.14.3, Windows 11, CPU only). Newer versions are expected to work but may
+# change numbers in the last decimal places.
+numpy==2.4.4
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.9.0
+lightgbm==4.6.0
+torch==2.11.0
+pyarrow==23.0.1

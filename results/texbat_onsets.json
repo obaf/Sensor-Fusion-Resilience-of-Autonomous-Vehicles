@@ -1,0 +1,9 @@
+{
+ "onsets_receiver_time_s": {
+  "ds2": 89.0,
+  "ds3": 98.0,
+  "ds7": 86.79995942057576
+ },
+ "ds7_identical_prefix_end_s": 86.79995942057576,
+ "guard_band_s": 15.0
+}
